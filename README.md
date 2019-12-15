@@ -1,0 +1,2 @@
+# Changing-the-size-of-an-object-by-altering-atomic-orbitals-for-tighter-rotations
+Objects can be shrunk or grown in size by changing the volume of space between atomic particles. Tightening atomic orbitals would create higher densities which would have higher magnetic bonds to neighboring particles in a lattice structure. Tighter rotations would bring atoms closer together and objects would grow or shrink accordingly.
